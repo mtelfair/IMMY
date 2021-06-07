@@ -1,2 +1,2 @@
-# IMMY
-Class project
+# IMMY_Restaurant
+Class project - restaurant idea
